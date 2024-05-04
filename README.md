@@ -16,6 +16,13 @@ cd backend
 npm install
 ```
 
+### Manual
+```bash
+npm i express express-fileupload mysql2 sequelize cors
+```
+```
+npm install -g nodemon
+```
 ### Start
 
 for backend
